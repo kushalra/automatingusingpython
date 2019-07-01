@@ -1,4 +1,5 @@
-# automatingusingpython
-Repository for automating with Python
+## Automate using python
 
-FirstUpdate
+First Update
+
+Webotron is the script which sync local directory with S3 & configure route53 & cloudfront
